@@ -4,7 +4,7 @@ public class BubbleSort {
 
 	public static void main(String[] args) {
 		
-		int a[]= {1,3,2,9,0,4,23,6};
+		int a[]= {1,3,2,9,0,4,23};
 		int n=a.length;
 		int temp =0;
 		
